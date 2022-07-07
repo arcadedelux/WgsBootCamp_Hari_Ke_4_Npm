@@ -1,0 +1,17 @@
+{
+  "name": "pertemuan4npm",
+  "version": "1.0.0",
+  "description": "test npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "fol": "ls",
+    "test": "test"
+  },
+  "author": "arief",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "validator": "^13.7.0"
+  }
+}
